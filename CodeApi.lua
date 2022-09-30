@@ -1,1 +1,1 @@
-{"UPD16","1MLIKES_RESET"}
+print("hello")
